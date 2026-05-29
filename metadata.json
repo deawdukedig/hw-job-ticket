@@ -1,0 +1,6 @@
+{
+  "name": "Hardware Repair Job Intake System",
+  "description": "ระบบรับงานซ่อมฮาร์ดแวร์และพิมพ์สลิปบลูทูธสำหรับ Admin และ Staff พร้อมตัวจำลองและโค้ด Flutter/Firebase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
